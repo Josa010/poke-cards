@@ -3,7 +3,7 @@ const Header = () => {
     <nav>
         <div class="header-logo">
             <h1>
-                <a href="/">
+                <a href="/poke-cards">
                     PokeAPI
                 </a>
             </h1>
