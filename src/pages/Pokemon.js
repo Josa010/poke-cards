@@ -14,7 +14,7 @@ const Pokemon = async () => {
             
             <div class="info-container">
                 <div class="info">
-                    <span>Heigh: ${pokemon.height}</span>
+                    <span>Height: ${pokemon.height}</span>
                     <div class="info-container-types">
                         <span>Types:</span>
                     ${pokemon.types.map(type =>  `
